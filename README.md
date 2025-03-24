@@ -10,13 +10,8 @@ Folders are listed alphabetically. Each one contains a hands-on guide and setup 
 
 | Folder Name             | Description                                               |
 |-------------------------|-----------------------------------------------------------|
-| [`01-budget-setup`](./01-budget-setup/01-budget-setup.md)       | Set a $20/month AWS budget with email alerts (cost control) |
-| `02-iam-roles-policies` | Create IAM users, groups, and custom policies             |
-| `03-ec2-instance-setup` | Launch a secure EC2 instance (Free Tier eligible)         |
-| `04-s3-storage`         | Store files with S3 buckets, versioning, and lifecycle rules |
-| `05-vpc-networking`     | Configure VPC, subnets, gateways, and routing             |
-| `06-cloudwatch-monitor` | Set up CloudWatch for log monitoring and alarms           |
-| `07-security`           | Secure resources with Security Groups, NACLs, and MFA     |
+| [`AWS Budget Setup Guide`](./01-budget-setup/01-budget-setup.md)       | Set a $20/month AWS budget with email alerts (cost control) |
+| `iam-roles-policies` | Create IAM users, groups, and custom policies             |
 
 ---
 
