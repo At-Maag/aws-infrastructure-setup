@@ -10,8 +10,8 @@ Folders are listed alphabetically. Each one contains a hands-on guide and setup 
 
 | Folder Name             | Description                                               |
 |-------------------------|-----------------------------------------------------------|
-| [`AWS Budget Setup Guide`](./01-budget-setup/01-budget-setup.md)       | Set a $20/month AWS budget with email alerts (cost control) |
-| `iam-roles-policies` | Create IAM users, groups, and custom policies             |
+| [`AWS Budget Setup`](./01-budget-setup/01-budget-setup.md)       | Set a $20/month AWS budget with email alerts (cost control) |
+| [`AWS S3 + CloudFront with a Custom Domain`]() | Deploying a Static Website on AWS S3 + CloudFront with a Custom Domain (Route 53 + ACM)             |
 
 ---
 
